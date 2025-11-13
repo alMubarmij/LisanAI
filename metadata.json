@@ -1,0 +1,7 @@
+{
+  "name": "لسان الذكاء",
+  "description": "An advanced web application showcasing AI powerful multimedia capabilities, including real-time voice conversations, text-to-speech generation, and in-depth video analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
